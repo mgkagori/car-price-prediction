@@ -1,0 +1,24 @@
+# Data — never commit
+*.parquet
+*.csv
+*.tsv
+*.xlsx
+*.pkl
+*.joblib
+data/
+!data/.gitkeep
+
+# Secrets
+.env
+*.key
+credentials*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
