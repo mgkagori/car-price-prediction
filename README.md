@@ -57,7 +57,7 @@ reports/      Written report
 
 ## Attribution
 
-Group coursework. Modelling, evaluation and the written report were produced collaboratively; this repository is published with the agreement of all team members. Contributor names and student identifiers have been removed from the published report.
+Group coursework produced collaboratively across modelling, evaluation and the written report. Contributor names and student identifiers have been removed from all published material.
 
 ---
 
