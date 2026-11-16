@@ -2,7 +2,7 @@
 
 A regression project estimating fair market value for used vehicles, benchmarking four model families and choosing between them on the basis of which prediction error is more expensive in the real world.
 
-**Coursework:** MSc Business Analytics, Aston University — Predictive Analytics. Team project.
+
 
 ---
 
