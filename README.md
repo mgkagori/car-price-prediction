@@ -61,4 +61,4 @@ Group coursework produced collaboratively across modelling, evaluation and the w
 
 ---
 
-*Grace Kagori — MSc Business Analytics, Aston University*
+
